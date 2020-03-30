@@ -1,0 +1,3 @@
+You may have seen [this tweet thread](https://twitter.com/SidSanghi/status/1244268782341799938) referencing CDC data. The author link to [his website](https://www.sidsanghi.com/) which links to [a draft paper](https://www.dropbox.com/s/2y2gvh2q7axdzz2/COVID-19_UnintendedConsequences.pdf?dl=0) which gets its data from [this CDC flu tracker](https://gis.cdc.gov/grasp/fluview/mortality.html) the JavaScript of which references [this JSON file](https://gis.cdc.gov/grasp/flu7/GetPhase07InitApp?appVersion=Public) saved here as data.json.
+
+Output from today (2020-03-29) is alldeaths.csv and is placed for your convience in [this spreadsheet](https://docs.google.com/spreadsheets/d/1OfSLQpliHEGvxZE5lzAJ_x7Gk-_0H6Yhk3Wf3XXDDw8/edit#gid=1393764703) along with a graph.
